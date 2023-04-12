@@ -1,0 +1,2 @@
+# BMICalculatorTHPrivacyPolicy
+BMICalculatorTHPrivacyPolicy
